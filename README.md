@@ -5,6 +5,8 @@
 - ⌛ Back - End
 - ⚡ Fun fact: Gosto de jogar games e ler livros
 
+                                                                          ![5dbdd9165ad64f5e29811c52_BRAND3](https://user-images.githubusercontent.com/82241258/139158820-b88f1003-ed51-45fa-a4f2-10e352bd1bd3.png)
+                
 <div align="center">
   <a href="https://github.com/Guilherme-moreno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-moreno&show_icons=true&theme=darklude_all_commits=true&count_private=true"/>
