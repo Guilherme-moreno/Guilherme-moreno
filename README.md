@@ -3,7 +3,7 @@
 - 📚 Atualmente estudando Desenvolvimento Web Full Stack
 - ✔️ Front - End
 - ⌛ Back - End
-- ⚡ Fun fact: Gosto de jogar games e ler livros
+- ⚡ Fun fact: Games e ler
 
 
 <div align="center">
